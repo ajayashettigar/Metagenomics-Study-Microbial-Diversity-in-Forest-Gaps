@@ -36,7 +36,7 @@ In each exploratory, soil samples were taken from:
 
 ### Usage
 
-1. **Data Processing:** Follow the QIIME2 pipeline scripts included in the `qiime_script.sh` for processing and analyzing the sequencing data.
+1. **Data Processing:** Follow the QIIME2 pipeline scripts included in the [Shell Script](qiime2_shell_script.sh) for processing and analyzing the sequencing data.
 2. **Visualization:** Generate visualizations using [QIIME2 view tools](https://view.qiime2.org/) and review results in the `results/` directory.
 
 ## Acknowledgments
