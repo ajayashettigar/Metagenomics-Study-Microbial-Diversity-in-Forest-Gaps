@@ -37,15 +37,7 @@ In each exploratory, soil samples were taken from:
 ### Usage
 
 1. **Data Processing:** Follow the QIIME2 pipeline scripts included in the `qiime_script.sh` for processing and analyzing the sequencing data.
-2. **Visualization:** Generate visualizations using QIIME2 tools and review results in the `results/` directory.
-
-## Results
-
-- **Demultiplexing Quality:** High-quality sequencing with consistent Phred scores.
-- **Feature Table:** Detailed feature counts and distributions.
-- **Taxonomic Classification:** Variations in microbial taxa between forest gaps.
-- **Alpha Diversity:** Shannon Index indicating microbial richness and evenness.
-- **Beta Diversity:** PCoA plot showing differences in microbial communities.
+2. **Visualization:** Generate visualizations using [QIIME2 view tools](https://view.qiime2.org/) and review results in the `results/` directory.
 
 ## Acknowledgments
 
@@ -54,4 +46,4 @@ In each exploratory, soil samples were taken from:
 
 ## Contact
 
-For any questions or suggestions, please contact [ajshettigar1253@gmail.com].
+For any questions or suggestions, please contact (ajshettigar1253@gmail.com).
