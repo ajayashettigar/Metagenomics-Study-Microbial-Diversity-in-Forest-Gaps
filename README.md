@@ -1,4 +1,4 @@
-# Metagenomics-Study-Microbial-Diversity-in-Forest-Gaps
+# Metagenomics-Study: Microbial Diversity in Forest Gaps
 
 ## Overview
 
